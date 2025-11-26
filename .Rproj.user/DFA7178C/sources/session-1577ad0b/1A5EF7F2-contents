@@ -1,6 +1,8 @@
 
 project:
   type: website
+  title: "Laurent Lacaze Santos"
+  output-dir: docs
 
 website:
   title: "Laurent Lacaze Santos"
