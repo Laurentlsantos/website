@@ -1,0 +1,30 @@
+
+project:
+  type: website
+
+website:
+  title: "Laurent Lacaze Santos"
+  sidebar: false
+  navbar:
+    right:
+      - text: HOME
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+
+  page-footer:
+    border: true
+    left: |
+      Powered by [Quarto](https://quarto.org)
+    
+
+      
+format:
+  html:
+    theme: sandstone
+    max-width: 3000px
+    grid:
+      body-width: 3000px
+      sidebar-width: 0px
+      margin-width: 0px
+      gutter-width: 0px

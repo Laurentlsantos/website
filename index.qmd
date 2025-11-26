@@ -1,0 +1,113 @@
+---
+title: "Laurent Lacaze Santos"
+subtitle: "Geographic Information Scientist"
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/laurent-lacaze-santos-0b13a51a/
+    - icon: twitter
+      text: X
+      href: https://x.com/LAURENTLSANTOS
+    - icon: github
+      text: Github
+      href: https://github.com/Laurentlsantos
+    - icon: envelope
+      text: Email
+      href: mailto:laurent.santos@nielseniq.com
+editor: 
+  markdown: 
+    wrap: 72
+sidebar: false
+---
+
+## Bio
+
+I am a geographer, engaged in geospatial analysis and location
+intelligence projects at [NielsenIQ](https://nielseniq.com/global/en/).
+In the field of geographic information science and socio-spatial
+demographics, my research extends over several domains such as consumer
+and market analysis, retail, real estate, transport and environment risk
+and conservation.
+
+Over the past few years, I have studied the spatial organizations of
+stores and the consumption of fast-moving consumer goods, specially on
+supermarket and hypermarket channels.
+
+I hold a master’ s degree in geosciences (governance of risk and
+resources) from University of Heidelberg and geospatial sciences
+(geographic information science and computing) from University College
+London.
+
+You can find my detailed CV [here](cv.qmd).
+
+## Reserch Interest {.interests}
+
+-   Geography of consumption (supply and demand perspectives)
+-   Retail geography
+-   Socio-spatial inequalities
+-   Urban geography and modelling
+
+## Education
+
+-   **MSc in Geospatial Sciences - *Geographic Information Science and
+    Computing*** (2018-2020)\
+    University College London (UCL) - Department of Civil, Environmental
+    and Geomatic Engineering\
+    Supervisor: Dr. James Haworth\
+    Dissertation title: “*Impacts of Covid 19 on Urban Air Pollution in
+    London*”, awarded September 2020
+
+-   **MSc in Geography- *Governance of Risk and Resources***
+    (2017-2018)\
+    Universität Heidelberg - Geographisches Institut Heidelberg\
+    Supervisor: Dr. Alexander Siegmund\
+    Dissertation title: “*Geospatial Analysis to Sustainable
+    Development: The Case Study of UNESCO Biosphere Reserve La
+    Campana-Peñuelas, Chile*”, awarded November 2018
+
+-   **PGDip in Geomatics** (2016)*\
+    *Pontificia Universidad Católica de Chile - Instituto de Geografía
+
+-   **BSc in Business Administration** (1997)\
+    Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
+
+## **Publications**
+
+-   Santos, L.  (2025). *Censo2022: Revisão da Estrutura Territorial e
+    dos Agregados Censitários*. \[Quarto e-book\]. Available
+    at: <https://laurentlsantos.github.io/IBGE-AgregadosCensitarios/>
+
+-   Santos, L., & Castillo, F.  (2019). *Introduction to Spatial Network
+    Forecast with R*. \[Bookdown e-book\]. Available
+    at: <https://laurentlsantos.github.io/forecasting/>
+
+-   Santos, L., & Jiang, R., (2018). ‘Spatial analysis of house price
+    determinants: A greater London case study’, *CEGE0097, Spatial
+    Analysis and Geocomputation*. University College London.
+    Unpublished. Available at:
+    <https://blog.politics.ox.ac.uk/russias-constitutional-reform-and-putins-plans-for-a-legacy-of-stability/>
+
+-   Santos, L., & Handke, M., (2018). ‘The doctrinal view of slim state:
+    Brazilian National Agency of Petroleum, Natural Gas and Biofuels
+    multilevel governance’, *CM01, Environmental Theory and Politics*.
+    Universität Heidelberg. Unpublished. Available at:
+    <https://blog.politics.ox.ac.uk/russias-constitutional-reform-and-putins-plans-for-a-legacy-of-stability/>
+
+    \
+
+## Work Experience
+
+-   **NielsenIQ** - Market and consumer intelligence research.
+     Geomarketing Manager (Jan 2022 to present)
+
+-   **Ellandi** - Real Estate asset management - Data Scientist and Data
+    Science Consultant (from August 2020 to December 2021). London, UK
+
+-   **Vendi** - Retail of telephone and accessories. Spatial Data
+    Scientist (May 2019 to November 2019). London, UK
+
+-   **Independent GIS Consultant** - (March 2016 to August 2018).
+    Santiago, Chile
