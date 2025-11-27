@@ -4,5 +4,11 @@
   },
   "cv.qmd": {
     "cv.html": "1798c0f8"
+  },
+  "house_prices.qmd": {
+    "house_prices.html": "b5d1ffeb"
+  },
+  "anp.qmd": {
+    "anp.html": "1d2efd21"
   }
 }
