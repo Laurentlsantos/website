@@ -88,13 +88,13 @@ You can find my detailed CV [here](cv.qmd).
     determinants: A greater London case study’, *CEGE0097, Spatial
     Analysis and Geocomputation*. University College London.
     Unpublished. Available at:
-    <https://blog.politics.ox.ac.uk/russias-constitutional-reform-and-putins-plans-for-a-legacy-of-stability/>
+    <https://laurentlsantos.github.io/website/house_prices.html>
 
 -   Santos, L., & Handke, M., (2018). ‘The doctrinal view of slim state:
     Brazilian National Agency of Petroleum, Natural Gas and Biofuels
     multilevel governance’, *CM01, Environmental Theory and Politics*.
     Universität Heidelberg. Unpublished. Available at:
-    <https://blog.politics.ox.ac.uk/russias-constitutional-reform-and-putins-plans-for-a-legacy-of-stability/>
+    <https://laurentlsantos.github.io/website/anp.html>
 
     \
 
